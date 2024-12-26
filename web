@@ -1,0 +1,66 @@
+#index
+
+<html>
+    <head>
+        <title>Katsuki Bakugou</title>
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+
+    <body>
+        <h1>El gran dios asesino de las explosiones Dinamight</h1>
+        <h2>Es conocido como La rubia explosiva</h2>
+        <p>Katsuki tiene un carácter muy impulsivo, agresivo e incluso arrogante. Tiene mucha confianza en sí mismo y se cree superior al resto por lo que se esfuerza en demostrar a todos que es mejor en todo. No obstante, y a pesar de este ego, tiene la capacidad de admitir con entereza cuando ha sido derrotado.Katsuki se presentó siendo una persona muy impulsiva, agresiva y arrogante, como se vio en su forma de tratar a Izuku, a quién constantemente vulneraba física y psicológicamente, incluso diciéndole que se mate, mostrando su actitud de bastardo.</p>
+        <p>Katsuki se presentó siendo una persona muy impulsiva, agresiva y arrogante, como se vio en su forma de tratar a Izuku, a quién constantemente vulneraba física y psicológicamente, incluso diciéndole que se mate, mostrando su actitud de bastardo.</p>
+        <p>Katsuki mostrando su exceso de confianza.
+            Tiene un complejo de superioridad, siempre queriendo ser el mejor en todo e intentando demostrarlo a toda costa; sin embargo aún con esos rasgos, sabe admitir bien cuándo ha sido derrotado, como se demostró en el durante la Batalla de prueba, cuando en la entrada de la academia, Izuku trató de explicarle que su Don One For All venía de otra persona, y Katsuki interpretó que se estaba burlando de él, por lo que trató de callarlo diciendo que simplemente le venció.[4]
+            </p>
+        <p>La expresión de lucha habitual de Katsuki.
+            En batalla tiende a ser bastante sanguinario y agresivo, incluso al punto de convertir la palabra "shine" en una muletilla. Su brutal estilo de lucha se muestra en la prueba de batalla, en la que agrede sin piedad a Izuku y destruye sin precaución todo del entorno encerrado en el que se encontraban. Pese a eso e independiente de su poca compasión, se le ha reconocido un enorme talento y agudeza para pelear, ya que no sólo ataca y destruye, también es capaz de usar su Don para moverse en el aire. Siendo esto destacado por Momo Yaoyorozu, Shoto Todoroki[5] y el mismo All Might.[6]
+            </p>
+        <p>Aunque no es el héroe con mejor carácter, a medida que avanza la historia su comportamiento comienza a madurar con lentitud, dejando de ser tan maleducado y orgulloso. Conforme avanza el año comienza a confiar y cooperar con sus compañeros de clases, a quienes antes rechazaba ya que quería hacer todo por cuenta propia, no ayudaba ni esperaba ser ayudado. Aquella egolatría le costó varios errores en clases que lo llevó a la derrota o estar muy cerca de ella, de no ser porque tuvo que cooperar a regañadientes con sus compañeros.</p>
+        <p>La primera impresión de Eijiro de Katsuki.
+            Su inspiración para convertirse en un héroe era el mismo que el de Izuku, el símbolo de paz All Might. Sin embargo, sus creencias son diferentes: Katsuki siente que un héroe nunca debe dejar de luchar o renunciar, independientemente de la amenaza que enfrente y que siempre ganar es la marca de un verdadero héroe. Además debido a su comportamiento arrogante y presumido, varios héroes, civiles e incluso villanos han comentado su comportamiento es más villanesco que heroico. Sin embargo Katsuki es inquebrantable en su objetivo de convertirse en un héroe, habiendo rechazado rotundamente la invitación de Tomura a la Alianza de Villanos.
+            </p>
+        <p>Al principio cuando era derrotado, entraba en una especie de shock y además de esto, no admite que supera a los demás cuando la pelea termina sin que él dé el golpe final, como cuando peleaba contra Ochaco Uraraka en el Festival Deportivo y decidieron dar por acabado el enfrentamiento antes de que él terminara a Ochaco.</p>
+        <p>Katsuki ayuda a su equipo.
+            Conforme ha avanzado la historia se ve que la personalidad de Katsuki ha cambiado progresivamente, inicialmente partió siendo alguien muy arrogante e intolerante pero poco a poco a ido calmando su actitud hasta el punto de demostrar preocuparse por los demás de manera implícita, como se demuestra en el examen de licencia provisional de héroe cuando reduce sus explosiones para no dañar a Denki y a Eijiro o haber esperado que éste regresara de la batalla contra los Ocho preceptos de la muerte. También ha demostrado tener empatía como es en el caso de Shoto al escuchar a escondidas su pasado.
+            </p>
+
+        <img src="C:\Users\ORDENADOR\Desktop\0 Python pro\desarrollo web\img\obvi.jpg"> 
+        <a href="https://www.wattpad.com/1466537475-en-todas-las-vidas-bkdk-1" target="_blank"> BkDk canon 🤞😉 </a>
+     
+    </body>
+</html>
+
+
+
+
+#style:
+
+
+body{
+    background-color: black;
+
+}
+
+h1{
+    color: rgb(255, 75, 43);
+    font-size: 150px;
+}
+
+
+p{
+    color: aliceblue;
+    font-size: 55px;
+}
+
+
+h2{
+    color: rgb(48, 214, 84);
+    font-size: 96;
+}
+
+img{
+    border-radius: 15px;
+}
